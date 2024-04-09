@@ -1,1 +1,2 @@
-# Hackaton-Fledgeworks
+# Movie Landing page
+This is repository which contains code for this Movie Landing Page.First i start the code with nav-bar and implement login and logout with validation like every page.After hero-carousel section page have search form which is very simple but functionality and can searching by all criterium like title,year,genre etc.After that page show all movies from list.js object which have 24 movies with different genre. Next section is add movie button which add custom movie with validation input form. Final section is random quotes obtained with ajax and displayed on UI and scrool to top buttton. For this simple landing page i used HTML,CSS,Bootstrap 5 and jQuery.
