@@ -1,0 +1,63 @@
+
+nav img {
+    width: 120px;
+    height: 80px;
+    border-radius: 10px;
+}
+#loginForm {
+    display: none;
+    background-color: green;
+    border-radius: 10px;
+}
+#logoutBtn {
+    display: none;
+}
+#pageMain {
+    background-color: #264743;
+    padding-bottom: 2%;
+    display:none;
+}
+#carouselMovies img {
+    height: 450px;
+}
+.card img {
+    height: 350px;
+}
+.card-body{
+    display: none;
+}
+
+#error-message{
+    color: red;
+}
+#addForm {
+    display: none;
+    background-color: aquamarine;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+#random {
+    background-color: aqua;
+    padding: 10px;
+    border: 1px solid blue;
+    border-radius: 10px;
+}
+
+#scrollBtn i {
+      font-size: 20px;
+}
+
+@media only screen and (max-width: 426px) {
+    #random {
+       width: 90%;
+       margin-bottom: 4%;
+    }
+   #random  h3 ,h5{
+      font-size: 15px;
+   }
+
+  }
+  
+
+
